@@ -1,6 +1,8 @@
-# places_nearby
+# Nearby places
 
-A new Flutter project.
+A sample Flutter app that uses Google Places Web Service to list nearby places.
+
+
 
 ## Getting Started
 
